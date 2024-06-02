@@ -2,6 +2,11 @@
 
 Maximize fruit juice and lemonade production
 
+Results:
+
+Лимонад: 30.0 units
+Фруктовий сік: 20.0 units
+
 # Task 2
 
 Test montecarlo to find square under the function e ^ sin( x ^ 2 ) on range from [0, 10]
